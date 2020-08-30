@@ -2,4 +2,4 @@
 This is my first commit
 
 This is from QA Temprory Branch.
-This is only for the testing purposes.
+This is only for the testing purposes
