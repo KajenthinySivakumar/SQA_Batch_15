@@ -1,4 +1,4 @@
-# SQA_Batch_15 this is for Development Branch
+# SQA_Batch_15 this is for QA Branch
 This is my first commit
 
 This is from QA Temprory Branch.
